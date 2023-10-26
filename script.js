@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function () {
-    const password = "1"; // Change this to your desired password
-    const expectedName = "1";
+    const password = "Nhexy&Ben"; // Change this to your desired password
+    const expectedName = "Arjane";
     const correctAnswer = "18-08-2020";
 
     const passwordInput = document.getElementById("passwordInput");
